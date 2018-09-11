@@ -1,0 +1,5 @@
+=========================
+collective.bibliographies
+=========================
+
+User documentation
